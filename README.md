@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for practicing the Git and GitHub work
+This repository is for practicing the Git and GitHub work. Adding additional line.
 
 ## Purpose
 
