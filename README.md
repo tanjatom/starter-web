@@ -18,3 +18,4 @@ Please fork this repository and then issue pull request for review
 ### Copyright
 
 2023 Git training
+All rights reserved
